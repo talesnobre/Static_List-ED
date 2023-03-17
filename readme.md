@@ -1,13 +1,13 @@
 ### Aluno: Tales Nobre / Matrícula: 20200025983
 
-### Disciplina: Estrutura de Dados
+## Disciplina: Estrutura de Dados
 ### Professor: Gilberto Farias
 
 ### Entrega da atividade : 16/03/2023
 
 ### Lista sequencial (array)
 
-###Implemente uma lista sequencial de inteiros, utilizando o tipo vetor, de inteiros com as
+### Implemente uma lista sequencial de inteiros, utilizando o tipo vetor, de inteiros com as
 seguintes operações:
 
 1. Criação da lista vazia;
