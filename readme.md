@@ -3,8 +3,6 @@
 ## Disciplina: Estrutura de Dados
 ### Professor: Gilberto Farias
 
-### Entrega da atividade : 16/03/2023
-
 ### Lista sequencial (array)
 
 ### Implemente uma lista sequencial de inteiros, utilizando o tipo vetor, de inteiros com as
